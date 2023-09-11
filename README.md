@@ -7,7 +7,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wine12345)](https://solved.ac/wine12345/)
 
 
-### ⚒️stack⚒️ 
+### ⚒️stacks ⚒️ 
 
 ![](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=f5f5f5)
 ![](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=f5f5f5)
